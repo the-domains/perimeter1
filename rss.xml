@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Perimeter1]]></title>
+        <description><![CDATA[Perimeter1]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Apr 2016 20:20:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Software Security]]></title>
+            <description><![CDATA[<article><h1>Software Security</h1><p>Perimeter1 aims to make securing your software easy!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3f5db622391c4b0dc8537a9205ec017c9018ad4.jpg"></article>]]></description>
+            <link>http://www.perimeter1.co.uk/</link>
+            <guid isPermaLink="false">f4b2ce0b-92fc-4fa3-bb9f-5d2b2e430410</guid>
+            <pubDate>Fri, 15 Apr 2016 20:20:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
